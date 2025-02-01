@@ -1,5 +1,5 @@
 ## Description
-This repository contains code comparing TF-IDF-based (RAG) and FAISS-based retrieval models on a downsampled SciFact dataset.
+This repository contains code comparing TF-IDF-based (RAG) and FAISS-based retrieval models on a downsampled SciFact dataset, for an information retrieval tassk.
 
 ## Dependencies
 

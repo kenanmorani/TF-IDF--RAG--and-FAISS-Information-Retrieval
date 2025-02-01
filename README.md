@@ -12,9 +12,8 @@ tensorflow-datasets==4.9.7
 vega-datasets==0.9.0  
 Python 3.11.11  
 
-## Installation & Usage
+## Clone the Repository:
 
-### Clone the Repository:
 ```bash
 !git clone https://github.com/kenanmorani/TF-IDF--RAG--and-FAISS-Information-Retrieval.git
 

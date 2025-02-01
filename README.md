@@ -1,7 +1,3 @@
-# TF-IDF--RAG--and-FAISS-Information-Retrieval
-
-# RAG vs FAISS - Information Retrieval Comparison
-
 ## Description
 This repository contains code comparing TF-IDF-based (RAG) and FAISS-based retrieval models on a downsampled SciFact dataset.
 

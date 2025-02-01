@@ -14,7 +14,7 @@ Python 3.11.11
 
 ## Documentation
 
-The paper is soon to be published as a preprint. An earlier version with the paper with details of the work can be found at the following link:  
+The paper is soon to be published as a preprint. An earlier version of the paper with details of the work can be found at the following link:  
 https://drive.google.com/file/d/1BKk7GeDAE-M95av2ilXoraulOfO3sl2o/view?usp=sharing  
 
 ## Clone the Repository:

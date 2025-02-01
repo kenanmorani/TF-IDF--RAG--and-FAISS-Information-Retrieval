@@ -17,4 +17,6 @@ Python 3.11.11
 ### Clone the Repository:
 ```bash
 !git clone https://github.com/kenanmorani/TF-IDF--RAG--and-FAISS-Information-Retrieval.git
-cd your-repo
+
+<br>
+cd the-repository
